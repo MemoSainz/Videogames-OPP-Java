@@ -17,5 +17,5 @@ It is also used this stuff too:
 
 
 
-
+<div align="center">
 <b> All lefts reserved 	&#169; Memo Sainz 2024 </b>
