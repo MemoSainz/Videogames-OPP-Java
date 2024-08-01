@@ -10,9 +10,9 @@ It is also used this stuff too:
     2. atributes
     3. constructors & methods" 
 
-[!NOTE]
+> [!NOTE]
 
-The practice was meant to be about creating a class called "Videogames", with the next attributes: ID, title, console, number of players, category... having in mind all the attributes, constructors, methods and getters & setters.
+> The practice was meant to be about creating a class called "Videogames", with the next attributes: ID, title, console, number of players, category... having in mind all the attributes, constructors, methods and getters & setters.
 
 
 
