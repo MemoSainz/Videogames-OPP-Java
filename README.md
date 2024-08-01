@@ -5,6 +5,7 @@
 
 A practice in Java, where it's being shown the clean order of the code as well, 
 It is also used this stuff too: 
+</div>
 
     1. Collections (arraylist)
     2. atributes
